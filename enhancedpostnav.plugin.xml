@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.habariproject.org/pluggable/0.8">
+	<name>Enhanced Post Navigation</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://christian-gredig.de/">Christian Gredig</author>
+	<version>0.1</version>
+	<description><![CDATA[Ascend and descend only in posts that were visible before selecting a single post (for example, ascend/descend through search results in single view). This replaces the default Habari behaviour (ascend/descend through posts of type entry).]]></description>
+	<copyright>2013</copyright>
+	<guid>4601512A-FE3C-43B9-927E-780A3F6DB7DF</guid>
+</pluggable>
